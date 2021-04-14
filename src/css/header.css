@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: "Ubuntu Mono", sans-serif;
+}
+
+li, a, p {
+    font-weight: 500;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+header {
+    background: rgba(48, 48, 48, 0.75);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 2%;
+}
+
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.nav-links li a {
+    transition: all 0.3s ease 0s;
+}
+
+.nav-links li a:hover {
+    font-size: 23px;
+}
+
+.beginText {
+    transition: all 0.3s ease 0s;
+}
+.beginText:hover {
+    font-size: 23px;
+}
+
+
+
