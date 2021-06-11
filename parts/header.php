@@ -12,8 +12,7 @@
     <nav>
         <ul class="nav-links">
             <li><a href="../pages/about-me.php">.aboutMe()</a></li>
-            <li><a href="https://www.github.com/VertCode">.github()</a></li>
-            <li><a href="../pages/contact.php">.contactMe();</a></li>
+            <li><a href="https://www.github.com/VertCode">.github();</a></li>
         </ul>
     </nav>
 </header>
